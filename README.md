@@ -1,4 +1,4 @@
-# Object Detection with Faster R-CNN
+# Object Detection Using Faster R-CNN
 
 ## Introduction
 This is a Torchvision implementation for Object Detection.
